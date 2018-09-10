@@ -1,0 +1,8 @@
+This project covers the concepts of:
+
+1. Forms & Form Validation 	(Validation Next after Redux)
+2. React Router 		(done)
+3. Event Handling 		(done)
+4. State & Props 		(done)
+5. System Lifecycle		(In progress)
+6. Redux 			(done)
