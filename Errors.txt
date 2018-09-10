@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 1. Home Page login
 2. Data Storage
 3. + thing in Edu & Exp
+=======
+1. Home Page login
+2. Data Storage
+3. + thing in Edu & Exp
+>>>>>>> 5bc15a06ff5c65f3d6687d32774d2e47683ac10a
 4.Form validation

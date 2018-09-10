@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project covers the concepts of:
 
 1. Forms & Form Validation 	(Validation Next after Redux)
@@ -5,4 +6,13 @@ This project covers the concepts of:
 3. Event Handling 		(done)
 4. State & Props 		(done)
 5. System Lifecycle		(In progress)
+=======
+This project covers the concepts of:
+
+1. Forms & Form Validation 	(Validation Next after Redux)
+2. React Router 		(done)
+3. Event Handling 		(done)
+4. State & Props 		(done)
+5. System Lifecycle		(In progress)
+>>>>>>> 5bc15a06ff5c65f3d6687d32774d2e47683ac10a
 6. Redux 			(done)
